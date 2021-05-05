@@ -13,7 +13,7 @@ name                     : &name "Aedin Culhane"
 description              : &description "Senior Research Scientist, Dana-Farber Cancer Institute/Harvard TH Chan School of Public Health "
 url                      : https://aedin.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "aedin/aedin.github.io"
+repository               : "aedin.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
