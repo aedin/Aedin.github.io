@@ -5,9 +5,9 @@ permalink: /teaching/
 author_profile: true
 ---
 
+<h2>Teaching Statement </h2>
 {% include base_path %}
 
-<h2>Teaching Statement </h2>
 {% for post in site.teaching reversed %}
   {% if post.pubtype == 'statement' %}
       {% include archive-single.html %}
