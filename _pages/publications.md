@@ -5,9 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+For the up-to-date publication list, see my Google Scholar profile <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>. Most of my publications are freely available on PubMed Central. If you are unable to access a manuscript, please let me know.
+
 
 In Reverse Chronological order
 
@@ -102,8 +101,12 @@ Book Chapters, Books and monographs
 77.	Djebbari A, Culhane AC, Armstrong AJ, Quackenbush J. (2008)  Artificial intelligence methods for analyzing microarray data.  In Encyclopedia of Artificial Intelligence. Rabuñal, JR, Dorado J & Pazos A (Editors)
 78.	De Troyer E, Sengupta E, Otava M, Zhang JD, Kaiser S, Culhane AC, Gusenleitner D, Gestraud P, Csardi G, Hochreiter S, Klambauer G,  Clevert DA, Perualila NJ, Kasim A,  Verbeke T and Shkedy Z. (2016) The biclustGUI Shiny App. Biclustering. In Applied Biclustering Methods for Big and High-Dimensional Data Using R Kasim A, Shkedy Z, Kaiser S, Hochreiter S, Talloen W (Editors) Chapman & Hall/CRC Press.
 79.	De Troyer E, Otava M, Zhang JD, Pramana S, Khamiakova T, Kaiser S, Culhane AC, Gusenleitner D, Gestraud P, Csardi G, Aregay M, Hochreiter S, Klambauer G,  Clevert DA, Perualila NJ, Kasim A, Verbeke T and Shkedy Z. The BiclustGUI Package. In Applied Biclustering Methods for Big and High-Dimensional Data Using R Kasim A, Shkedy Z, Kaiser S, Hochreiter S, Talloen W (Editors) Chapman & Hall/CRC Press.
+
+
 PrePrints 
+===========
 Hill KE, Rattani A, Lietz CE, Garbutt C, Choy E, Cote GM, Culhane AC, Kelly AD, Haibe-Kains B, Spentzos D. Machine learning-based prediction of response to PARP inhibition across cancer types. medRxiv preprint Sep. 27, 2019  http://dx.doi.org/10.1101/19007757
+
 Culhane AC Carey VJ, Argelaguet R, Holmes S, Love MI, Yuan GC, Abadi AJ, Greene CS, Subramanian A, Singh A, Coullomb A, Pancaldi V, Arora A, Sodicoff JS, Welch JD, David-Marcisak EF, Ritchie M, You Y, Stein-O’Brien G, Sankaran K, Dries R, Deshpande A, Fertig E,  Le Cao KA Community-wide hackathons establish foundations for emerging single cell data integration. https://birsbiointegration.github.io/whitePaper/ 
 
 
