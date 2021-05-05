@@ -1,3 +1,10 @@
+---
+layout: archive
+title: "Research"
+permalink: /Research/
+author_profile: true
+---
+
 My research program in computational systems oncology develops multivariate statistical methods and machine learning approaches to integrate and analyze high dimensional genomics and single cell ‘omics data
 
 
