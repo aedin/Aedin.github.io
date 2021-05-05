@@ -87,7 +87,7 @@ author:
   employer         :
   pubmed           : "http://www.ncbi.nlm.nih.gov/sites/myncbi/aedin.culhane.1/bibliograpahy/ 40857122/public/?sort=date&direction=ascending"
   googlescholar    : "https://scholar.google.com/citations?user=O8OszPcAAAAJ"
-  email            :
+  email            :  "aedin@ ds.dfci.harvard.edu"
   researchgate     : "http://www.researchgate.net/profile/Aedin_Culhane/"
   uri              :
   bitbucket        :
@@ -115,7 +115,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-  bioRxiv          : "https://www.biorxiv.org/search/author1%3AAedin%2BCulhane%20jcode%3Abiorxiv%20numresults%3A10%20sort%3Apublication-date%20direction%3Adescending%20format_result%3Astandard"
+  biorxiv          : "https://www.biorxiv.org/search/author1%3AAedin%2BCulhane%20jcode%3Abiorxiv%20numresults%3A10%20sort%3Apublication-date%20direction%3Adescending%20format_result%3Astandard"
 
 # Reading Files
 include:
