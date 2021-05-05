@@ -84,6 +84,7 @@ In Reverse Chronological order
 65.	Roel, E., Pistillo, A., Recalde, M., Sena, A.G., Fernández-Bertolín, S., Aragón, M., Puente, D., Ahmed, W.-U.-R., Alghoul, H., Alser, O., Alshammari, T.M., Areia, C., Blacketer, C., Carter, W., Casajust, P., Culhane, A.C., et al., 2021. Characteristics and outcomes of 118,155 COVID-19 individuals with a history of cancer in the United States and Spain. bioRxiv.
 
 Other peer reviewed publications (Reviews, letters to the editor)
+===========
 66.	Hale AJ, Smith CA, Sutherland LC, Stoneman VE, Longthorne V, Culhane AC, Williams GT. Apoptosis: molecular regulation of cell death. Eur. J. Biochem. 1996; 236: 1-26
 67.	Duffy MJ, Kelly ZD, Culhane AC, O’ Brien S, Gallagher WM. DNA Microarray-Based Gene Expression profiling in cancer: Aiding cancer diagnosis, assessing prognosis and predicting response to therapy. Current Pharmacogenomics. 2005 16: 289-304 
 68.	Brennan D, O’ Brien S, Fagan A, Culhane AC, Higgins DG, Duffy MJ, Gallagher WM. Application of DNA microarray technology in determining breast cancer prognosis and therapeutic response. Expert Opinion on Biological Therapy. 2005; 5(8):1069-83 
@@ -93,7 +94,9 @@ Other peer reviewed publications (Reviews, letters to the editor)
 72.	Meng C & Culhane AC* Integrative exploratory analysis of two or more genomic data. in Statistical Genomics: Methods and Protocols. Davis S (Editor). Methods Mol Biol. 2016; 1418:19-38. 
 73.	de Velasco G, Culhane AC*, Heng DYC, Signoretti S, Choueiri TK (2017) In Reply. The issue of tissue stratification. Oncologist. 2017 Sep 11. pii: theoncologist.2017-0283. doi:
 74.	Stein-O'Brien GL,  Arora R,  Culhane AC,  Favorov A,  Garmire LX,  Greene C,  Goff LA,  Li Y,  Ngom A,  Ochs MF,  Xu Y,  Fertig EJ (2018) Enter the matrix: factorization uncovers knowledge from omics  Trends Genet. 2018 Oct;34(10):790-805. doi: 10.1016/j.tig.2018.07.003.
+
 Book Chapters, Books and monographs
+===========
 75.	Brazma  A., and Culhane AC*. Algorithms for gene expression analysis. In Encyclopedia of Genetics, Genomics, Proteomics and Bioinformatics. Jorde LB., Little PFR, Dunn MJ., Subramaniam S, editors. John Wiley & Sons. London. 2005, p 3148 -3159  (John Quackenbush, editor. Computational Methods for High-throughput Genetic Analysis: Expression Profiling; vol. 7(5)) 
 76.	Culhane AC* and Brazma A. Mining of gene expression data. In In Silico technology in drug target identification and validation.  León D, Markel S., editors.  Marcel Dekker, Inc. New York. CRC Press, Drug Discovery Series. 2006 p123-139
 77.	Djebbari A, Culhane AC, Armstrong AJ, Quackenbush J. (2008)  Artificial intelligence methods for analyzing microarray data.  In Encyclopedia of Artificial Intelligence. Rabuñal, JR, Dorado J & Pazos A (Editors)
@@ -103,5 +106,4 @@ PrePrints
 Hill KE, Rattani A, Lietz CE, Garbutt C, Choy E, Cote GM, Culhane AC, Kelly AD, Haibe-Kains B, Spentzos D. Machine learning-based prediction of response to PARP inhibition across cancer types. medRxiv preprint Sep. 27, 2019  http://dx.doi.org/10.1101/19007757
 Culhane AC Carey VJ, Argelaguet R, Holmes S, Love MI, Yuan GC, Abadi AJ, Greene CS, Subramanian A, Singh A, Coullomb A, Pancaldi V, Arora A, Sodicoff JS, Welch JD, David-Marcisak EF, Ritchie M, You Y, Stein-O’Brien G, Sankaran K, Dries R, Deshpande A, Fertig E,  Le Cao KA Community-wide hackathons establish foundations for emerging single cell data integration. https://birsbiointegration.github.io/whitePaper/ 
 
-![image](https://user-images.githubusercontent.com/714323/117096871-3f7f1900-ad38-11eb-8794-9f21fa72544a.png)
 
