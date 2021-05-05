@@ -1,3 +1,11 @@
+---
+title: "Teaching statement"
+collection: teaching
+type: "Graduate courses"
+permalink: /teaching/Teaching_Statement
+pubtype: 'statement'
+---
+
 Teaching Statement
 ============
 **Experience in Teaching and mentoring students**. Most current teaching are [workshops in Bioconductor](http://bioc2020.bioconductor.org/workshops.html). I was instructor of winter session course, **Bio503 Introduction to Programming and Statistical Modelling in R in the Biostatistics Department at Harvard TH Chan School of Public Health (2008-2016)**, in which I was responsible for creating the course syllabus, materials, supervision of a teaching assistant (2014-2016), awarding grades and office hours. The course attracted 20-30 students; undergraduate, graduate, faculty from Public Health, Epidemiology and Biostatistics. I received several recognition letters from our department chair for positive scores from students who highy raated the class. I was guest lecturer on **Bio508 Genomic Data Manipulation**, **Bio290 Genomics and Genetics for Health Research**.  My initial skills in teaching were developed when I was a bioinformatics training officer at the [UK Biology and Biotechnology Research Council](https://bbsrc.ukri.org/) I co-instructed with Nadia Anwar and Simon Andrews on over 700 hours of 1-3 day hands-on workshops in Unix/Linux, DNA sequence analysis, phylogenetic analysis and protein structure modeling.
