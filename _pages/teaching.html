@@ -7,9 +7,10 @@ author_profile: true
 
 {% include base_path %}
 
-
-{%  include teaching_statement.md %}
-
-{% for post in site.teaching reversed %}
-  {% include archive-single.html %}
+<h2>Teaching Statement </h2>
+{% for post in site.teaching reversed d %}
+  {% if post.pubtype == 'statement' %}
+      {% include archive-single.html %}
+  {% endif %}
 {% endfor %}
+
