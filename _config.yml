@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Aedin Culhane / Oncology and Bioinformatics"
+title                    : "Aedin Culhane / Computational Oncology"
 title_separator          : "-"
 name                     : &name "Aedin Culhane"
 description              : &description "Senior Research Scientist, Dana-Farber Cancer Institute/Harvard TH Chan School of Public Health "
