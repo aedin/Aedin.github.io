@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Aedin Culhane"
   avatar           : "profile.png"
-  bio              : "Computational Oncologist"
-  location         : "Boston"
-  employer         : "Dana-Farber Cancer Institute/ Harvard TH Chan School of Public Health"
+  bio              : "Computational Oncologist, Department of Data Science, Dana-Farber Cancer Institute/ Harvard TH Chan School of Public Health"
+  location         : "Boston, MA, USA"
+  employer         :
   pubmed           : "http://www.ncbi.nlm.nih.gov/sites/myncbi/aedin.culhane.1/bibliograpahy/ 40857122/public/?sort=date&direction=ascending"
   googlescholar    : "https://scholar.google.com/citations?user=O8OszPcAAAAJ"
   email            :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : "https://profiles.impactstory.org/u/0000-0002-1395-9734"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/aedinculhane"
   orcid            : "https://orcid.org/0000-0002-1395-9734"
   pinterest        :
   soundcloud       :
@@ -115,7 +115,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-
+  bioRxiv          : "https://www.biorxiv.org/search/author1%3AAedin%2BCulhane%20jcode%3Abiorxiv%20numresults%3A10%20sort%3Apublication-date%20direction%3Adescending%20format_result%3Astandard"
 
 # Reading Files
 include:
